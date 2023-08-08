@@ -1,7 +1,7 @@
 
 --->
 <h1 align="center">Rocio Centoira</h1>
-<h3 align="center">I am Psychologist entering the Data Sciences World</h3>
+<h3 align="center">I am a Psychologist entering the Data Sciences World</h3>
 
 - I’m currently working on **growing my Portfolio**
 
