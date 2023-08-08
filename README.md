@@ -1,6 +1,6 @@
 
 --->
-<h1 align="center">Hi, I'm Rocio</h1>
+<h1 align="center">Rocio Centoira</h1>
 <h3 align="center">I Psychologist entering the Data Sciences World</h3>
 
 - I’m currently working on **growing my Portfolio**
